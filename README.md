@@ -16,7 +16,7 @@ Sou um desenvolvedor iniciante apaixonado por tecnologia e programação! Atualm
 
 ## 📫 Como me encontrar:
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robsongabrielalencar) **Conecte-se comigo no LinkedIn**
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-gabriel-alencar-souza-57b70528b/) **Conecte-se comigo no LinkedIn**
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/robsongabrielalencar) **Confira meus projetos no GitHub**
 - ✉️ **Email:** [gabrielrps89@gmail.com](gabrielrps89@gmail.com)
   
