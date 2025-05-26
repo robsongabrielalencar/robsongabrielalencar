@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Robson Gabriel Alencar!
 
-Sou um desenvolvedor iniciante apaixonado por tecnologia e programação! Atualmente, estou me aprofundando no desenvolvimento web e backend, sempre buscando aprender e aprimorar minhas habilidades. 🚀
+Sou um desenvolvedor apaixonado por tecnologia e programação! Atualmente, estou me aprofundando no desenvolvimento web e backend, sempre buscando aprender e aprimorar minhas habilidades. 🚀
 
 ## 🛠️ Tecnologias e Ferramentas que Utilizo:
 
